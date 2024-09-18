@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 10%, rgba(23, 52, 30, 1) 27%, rgba(16, 101, 57, 1) 59%, rgba(27, 180, 73, 1) 84%);
+}
+
+@font-face {
+    font-family: 'title';
+    src: url('assets/font/Merriweather-Black.ttf');
+}
+@font-face {
+    font-family: 'maintext';
+    src: url('assets/font/RobotoSlab-Regular.ttf');
+}
+@font-face {
+    font-family: 'text1';
+    src: url('assets/font/JosefinSlab-Bold.ttf');
+}
+@font-face {
+    font-family: 'text2';
+    src: url('assets/font/PTF56F.ttf');
+}
+
+/* .box2{
+    background-color: rgb(76, 170, 122);
+} */
