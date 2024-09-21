@@ -4,7 +4,7 @@
 [Watch Demo](https://portfolio-reactjs-sigma-two.vercel.app/)
 
 
-![1](https://github.com/user-attachments/assets/e21dacf0-6f13-4cb8-a15e-ead773ec4c2f)
+![1](https://github.com/user-attachments/assets/c37c587a-3e29-4772-a95f-4103a26444ee)
 
                                                           😎😉 
                                                  
