@@ -13,7 +13,7 @@ export default function Sec1header() {
                         whileHover={{ scale: 1.1 }}
                         whileTap={{ scale: 0.9 }}
                         transition={{ type: "spring", stiffness: 400, damping: 10 }}
-                        style={{ border: '1px solid rgb(140, 252, 181)', padding: '8px 20px', borderRadius: '25px' }}
+                        style={{ border: '1px solid #ffabab', padding: '8px 20px', borderRadius: '25px' }}
                     >
                         Download CV
                     </motion.button>
